@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="227px" height="159px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1.33333,0,0,1.33333,0,0)">
+        <g id="Clone2D" transform="matrix(1,0,0,-1,0.376716,119.281)">
+            <path id="Clone2D_w0000" d="M42.52,94.961L165.827,94.961C168.159,94.961 170.079,96.88 170.079,99.213L170.079,114.803C170.079,117.136 168.159,119.055 165.827,119.055L0,119.055L0,0L165.827,0C168.159,0 170.079,1.919 170.079,4.252L170.079,19.843C170.079,22.175 168.159,24.094 165.827,24.094L42.52,24.094C40.187,24.094 38.268,26.014 38.268,28.346C38.268,30.679 40.187,32.598 42.52,32.598L165.827,32.598C168.159,32.598 170.079,34.518 170.079,36.85L170.079,82.205C170.079,84.537 168.159,86.457 165.827,86.457L42.52,86.457C40.187,86.457 38.268,88.376 38.268,90.709C38.268,93.041 40.187,94.961 42.52,94.961" style="fill:none;stroke:black;stroke-width:0.99px;"/>
+            <circle id="circle3" cx="85.039" cy="68.031" r="4.252" style="fill:none;stroke:black;stroke-width:0.99px;"/>
+            <circle id="circle5" cx="127.559" cy="68.031" r="4.252" style="fill:none;stroke:black;stroke-width:0.99px;"/>
+        </g>
+    </g>
+</svg>
