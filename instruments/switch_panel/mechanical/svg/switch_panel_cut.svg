@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1152px" height="384px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.32,0,0,0.32,0,0)">
+        <g id="Cut" transform="matrix(1,0,0,1,-1275,0)">
+            <g id="Toggle-Switches" serif:id="Toggle Switches" transform="matrix(1,0,0,1,1278.02,-2.17087)">
+                <g transform="matrix(0.95008,0,0,0.95008,68.3267,41.0201)">
+                    <circle cx="1372.94" cy="806.263" r="73.888" style="fill:none;stroke:rgb(1,0,255);stroke-width:6.58px;"/>
+                </g>
+                <g transform="matrix(0.95008,0,0,0.95008,305.55,39.8385)">
+                    <circle cx="1372.94" cy="806.263" r="73.888" style="fill:none;stroke:rgb(1,0,255);stroke-width:6.58px;"/>
+                </g>
+                <g transform="matrix(0.95008,0,0,0.95008,540.061,39.6901)">
+                    <circle cx="1372.94" cy="806.263" r="73.888" style="fill:none;stroke:rgb(1,0,255);stroke-width:6.58px;"/>
+                </g>
+                <g transform="matrix(0.95008,0,0,0.95008,776.893,40.2638)">
+                    <circle cx="1372.94" cy="806.263" r="73.888" style="fill:none;stroke:rgb(1,0,255);stroke-width:6.58px;"/>
+                </g>
+                <g transform="matrix(0.95008,0,0,0.95008,1012.87,39.8656)">
+                    <circle cx="1372.94" cy="806.263" r="73.888" style="fill:none;stroke:rgb(1,0,255);stroke-width:6.58px;"/>
+                </g>
+                <g transform="matrix(0.95008,0,0,0.95008,1249.45,40.3175)">
+                    <circle cx="1372.94" cy="806.263" r="73.888" style="fill:none;stroke:rgb(1,0,255);stroke-width:6.58px;"/>
+                </g>
+                <g transform="matrix(0.95008,0,0,0.95008,1485.84,41.621)">
+                    <circle cx="1372.94" cy="806.263" r="73.888" style="fill:none;stroke:rgb(1,0,255);stroke-width:6.58px;"/>
+                </g>
+            </g>
+            <g id="Panel-Cutout--Entire-" serif:id="Panel Cutout (Entire)" transform="matrix(4.78964,0,0,1.14452,1258.31,-8.38148)">
+                <path d="M739.903,15.395C739.903,10.26 738.907,6.09 737.679,6.09L6.163,6.09C4.936,6.09 3.94,10.26 3.94,15.395L3.94,1045.26C3.94,1050.39 4.936,1054.56 6.163,1054.56L737.679,1054.56C738.907,1054.56 739.903,1050.39 739.903,1045.26L739.903,15.395Z" style="fill:none;stroke:rgb(1,0,255);stroke-width:1.79px;"/>
+            </g>
+            <g id="Master-Switch" serif:id="Master Switch" transform="matrix(2.71259,0,0,4.04309,-153.584,-1179.53)">
+                <rect x="846.557" y="381.664" width="99.536" height="91.267" style="fill:none;stroke:rgb(1,0,255);stroke-width:1.82px;"/>
+            </g>
+            <g id="Avionics-Master-Switch" serif:id="Avionics Master Switch" transform="matrix(1,0,0,1,1278.02,-2.17087)">
+                <g transform="matrix(2.18333,0,0,2.61348,-3552.58,-622.583)">
+                    <rect x="2995.52" y="382.623" width="67.328" height="132.008" style="fill:none;stroke:rgb(1,0,255);stroke-width:2.6px;"/>
+                </g>
+                <g transform="matrix(2.18333,0,0,2.61348,-3377.88,-623.621)">
+                    <rect x="2995.52" y="382.623" width="67.328" height="132.008" style="fill:none;stroke:rgb(1,0,255);stroke-width:2.6px;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.507583,0,0,0.507583,1466.89,269.729)">
+                <circle cx="391.314" cy="548.276" r="115.252" style="fill:none;stroke:rgb(1,0,255);stroke-width:12.31px;"/>
+            </g>
+            <g transform="matrix(2.07148,0,0,2.07148,1310.02,17.57)">
+                <circle cx="28.784" cy="34.375" r="11.586" style="fill:none;stroke:rgb(1,0,255);stroke-width:2.01px;"/>
+            </g>
+            <g transform="matrix(2.07148,0,0,2.07148,4627.77,17.6623)">
+                <circle cx="28.784" cy="34.375" r="11.586" style="fill:none;stroke:rgb(1,0,255);stroke-width:2.01px;"/>
+            </g>
+            <g transform="matrix(2.07148,0,0,2.07148,4627.67,1037.16)">
+                <circle cx="28.784" cy="34.375" r="11.586" style="fill:none;stroke:rgb(1,0,255);stroke-width:2.01px;"/>
+            </g>
+            <g transform="matrix(2.07148,0,0,2.07148,1309.6,1037.61)">
+                <circle cx="28.784" cy="34.375" r="11.586" style="fill:none;stroke:rgb(1,0,255);stroke-width:2.01px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
