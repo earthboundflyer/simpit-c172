@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1920px" height="1152px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Artboard1" x="0" y="0" width="1920" height="1152" style="fill:none;"/>
+    <g id="Artboard11" serif:id="Artboard1">
+        <g id="Cut-Layer" serif:id="Cut Layer">
+            <g transform="matrix(0.86361,0,0,0.916887,-10.4354,-54.6653)">
+                <path d="M470.736,111.661C470.736,102.091 462.487,94.321 452.326,94.321L100.081,94.321C89.92,94.321 81.671,102.091 81.671,111.661L81.671,443.439C81.671,453.009 89.92,460.779 100.081,460.779L452.326,460.779C462.487,460.779 470.736,453.009 470.736,443.439L470.736,111.661Z" style="fill:none;stroke:rgb(13,40,242);stroke-width:2.99px;"/>
+            </g>
+            <g transform="matrix(1.84072,0,0,2.00354,-320.116,-323.569)">
+                <ellipse cx="297.825" cy="261.23" rx="65.192" ry="59.894" style="fill:none;stroke:rgb(13,40,242);stroke-width:1.39px;"/>
+            </g>
+        </g>
+        <g id="Engrave-Layer" serif:id="Engrave Layer">
+        </g>
+        <g transform="matrix(0.815833,0,0,0.815833,-143.328,-155.217)">
+            <g id="Score-Layer" serif:id="Score Layer">
+                <circle cx="455.27" cy="435.179" r="191.216" style="fill:none;stroke:rgb(228,13,242);stroke-width:3.27px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
