@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1920px" height="1152px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Artboard1" x="0" y="0" width="1920" height="1152" style="fill:none;"/>
+    <g id="Artboard11" serif:id="Artboard1">
+        <g id="Cut-Layer" serif:id="Cut Layer">
+        </g>
+        <g id="Engrave-Layer" serif:id="Engrave Layer">
+        </g>
+        <g id="Score-Layer" serif:id="Score Layer">
+            <g transform="matrix(0.945335,0,0,0.96428,-41.4266,-63.873)">
+                <path d="M1479.4,110.754C1479.4,106.271 1475.69,102.632 1471.12,102.632L116.744,102.632C112.172,102.632 108.459,106.271 108.459,110.754L108.459,442.956C108.459,447.439 112.172,451.078 116.744,451.078L1471.12,451.078C1475.69,451.078 1479.4,447.439 1479.4,442.956L1479.4,110.754Z" style="fill:none;stroke:rgb(13,40,242);stroke-width:2.79px;"/>
+            </g>
+            <g transform="matrix(0.381722,0,0,0.522858,20.2967,-39.5375)">
+                <ellipse cx="176.945" cy="193.844" rx="19.648" ry="14.344" style="fill:none;stroke:rgb(13,40,242);stroke-width:5.83px;"/>
+            </g>
+            <g transform="matrix(0.381722,0,0,0.522858,1264.28,-39.5375)">
+                <ellipse cx="176.945" cy="193.844" rx="19.648" ry="14.344" style="fill:none;stroke:rgb(13,40,242);stroke-width:5.83px;"/>
+            </g>
+            <g transform="matrix(0.381722,0,0,0.522858,20.2967,240.301)">
+                <ellipse cx="176.945" cy="193.844" rx="19.648" ry="14.344" style="fill:none;stroke:rgb(13,40,242);stroke-width:5.83px;"/>
+            </g>
+            <g transform="matrix(0.381722,0,0,0.522858,1264.28,240.301)">
+                <ellipse cx="176.945" cy="193.844" rx="19.648" ry="14.344" style="fill:none;stroke:rgb(13,40,242);stroke-width:5.83px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
